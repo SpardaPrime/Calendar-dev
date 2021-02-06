@@ -1,5 +1,5 @@
 # Events caledar
-![](https://i.ibb.co/7NzrtNN/image.gif)
+![](https://i.ibb.co/HzFNkbJ/prev-1.gif)
 
 You can use this aplication [here!](https://spardaprime.github.io/Calendar-prod/)
 In this project I used:
