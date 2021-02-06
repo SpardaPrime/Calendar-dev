@@ -1,5 +1,6 @@
 # Events caledar
-![Calendar](https://i.ibb.co/rHck59r/prev.gif)
+![](https://i.ibb.co/rHck59r/prev.gif){:height="700px" width="400px"}
+
 You can use this aplication [here!](https://spardaprime.github.io/Calendar-prod/)
 In this project I used:
 * JavaScript ( es6 , localStorage )
