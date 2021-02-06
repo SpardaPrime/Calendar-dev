@@ -1,7 +1,8 @@
 # Events caledar
 ![](https://i.ibb.co/HzFNkbJ/prev-1.gif)
 
-You can use this aplication [here!](https://spardaprime.github.io/Calendar-prod/)
+## You can use this aplication [here!](https://spardaprime.github.io/Calendar-prod/)
+
 In this project I used:
 * JavaScript ( es6 , localStorage )
 * Sass
