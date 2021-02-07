@@ -9,11 +9,9 @@ export default () => {
    <div class="input-group input-group-lg person-name">
    <span class="input-group-text">Person name</span>
    <input type="text" class="form-control conf-name" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
-   <span class="input-group-text">Name</span>
-   <input type="text" class="form-control conf-name" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
    </div>
    <div class="conf-add-inp">
-   <button id="conf-add-person" class="btn btn-outline-info" >Add persons +</button>
+   <button id="conf-add-person" class="btn btn-outline-info" >Add person +</button>
    </div>
    <div class="input-group input-group-lg">
    <span class="input-group-text">Time from</span>
@@ -57,8 +55,6 @@ export default () => {
     div.classList.add('input-group', 'input-group-lg', 'person-name');
     div.innerHTML = `
       <span class="input-group-text">Person name</span>
-      <input type="text" class="form-control conf-name" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
-      <span class="input-group-text">Name</span>
       <input type="text" class="form-control conf-name" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
       `;
 
