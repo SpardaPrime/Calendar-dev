@@ -7,7 +7,7 @@ export default () => {
    <div><h1>Create calendar</h1></div>
    
    <div class="input-group input-group-lg person-name">
-   <span class="input-group-text">Person name</span>
+   <span class="input-group-text">Person's name</span>
    <input type="text" class="form-control conf-name" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
    </div>
    <div class="conf-add-inp">
@@ -54,7 +54,7 @@ export default () => {
     const div = document.createElement('div');
     div.classList.add('input-group', 'input-group-lg', 'person-name');
     div.innerHTML = `
-      <span class="input-group-text">Person name</span>
+      <span class="input-group-text">Person's name</span>
       <input type="text" class="form-control conf-name" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
       `;
 
